@@ -8,7 +8,7 @@
 
 # Kanha Upadhyay
 
-### Engineering Manager · AI systems · Backend platforms
+### SDE 3 · AI systems · Backend platforms
 
 I build dependable software where AI, backend architecture, and delivery discipline meet. My work spans production retrieval systems, multi-agent workflows, event-driven platforms, and the tooling that helps teams ship them with confidence.
 
@@ -47,17 +47,17 @@ Open-source CLI for starting production-grade projects without rebuilding the sa
 
 ## Experience
 
-**Engineering Manager · Sifars**  
+**SDE 3 · Sifars**  
 Mar 2025 – present
 
 Lead AI architecture across concurrent international engagements while working hands-on in agent design, retrieval, infrastructure, and engineering quality.
 
-**Senior Software Engineer · Sifars**  
+**SDE 2 · Sifars**  
 Jul 2022 – Feb 2025
 
 Built AI-enabled and backend systems across document intelligence, operations, finance, and event-driven platforms.
 
-**Software Engineer · GS Lab**  
+**SDE 1 · GS Lab**  
 Jan 2021 – Jun 2022
 
 Built backend services and data-processing pipelines, then shipped them through Docker and Kubernetes on AWS and GCP.
