@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/ukanhaupa/ukanhaupa/main/assets/portfolio-banner.svg" alt="Kanha Upadhyay: Engineering leadership, AI systems, and backend platforms" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://ukanhaupa.github.io/ukanhaupa/">Visit the interactive portfolio</a> · <a href="https://www.linkedin.com/in/kanha-upadhyay/">LinkedIn</a> · <a href="mailto:mr.kanhaupadhyay@gmail.com">Email</a>
+</p>
+
 # Kanha Upadhyay
 
 ### Engineering Manager · AI systems · Backend platforms
