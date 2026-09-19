@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" role="img" aria-labelledby="title description">
+  <title id="title">Kanha Upadhyay portfolio banner</title>
+  <desc id="description">A dark engineering map connecting AI systems, backend platforms, and developer foundations around a K monogram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#071421"/>
+      <stop offset="0.5" stop-color="#0e2233"/>
+      <stop offset="1" stop-color="#0b1026"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" x2="1">
+      <stop offset="0" stop-color="#66e3ce" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#66e3ce" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#8b9dff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#7af5db" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#7af5db" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#b8d5e3" stroke-opacity="0.09"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="480" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="480" rx="28" fill="url(#grid)"/>
+  <circle cx="924" cy="244" r="244" fill="url(#halo)"/>
+  <path d="M616 128H1064" fill="none" stroke="url(#beam)" stroke-width="2"/>
+  <path d="M616 244H1118" fill="none" stroke="url(#beam)" stroke-width="2"/>
+  <path d="M616 360H1064" fill="none" stroke="url(#beam)" stroke-width="2"/>
+  <text x="64" y="73" fill="#9fb4c5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700" letter-spacing="4">PORTFOLIO / 2026</text>
+  <text x="64" y="164" fill="#f4fbff" font-family="ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="700">Kanha Upadhyay</text>
+  <text x="68" y="214" fill="#89a4b9" font-family="ui-sans-serif, system-ui, sans-serif" font-size="23">Engineering leadership · AI systems · backend platforms</text>
+  <text x="68" y="272" fill="#d2e3ef" font-family="ui-sans-serif, system-ui, sans-serif" font-size="21">Building systems teams can trust, evolve, and ship.</text>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700">
+    <rect x="64" y="344" width="156" height="48" rx="24" fill="#123c4a" stroke="#54d7c0" stroke-opacity="0.55"/>
+    <text x="142" y="375" fill="#b9fff0" text-anchor="middle">Production AI</text>
+    <rect x="234" y="344" width="168" height="48" rx="24" fill="#192d4b" stroke="#8ba5ff" stroke-opacity="0.55"/>
+    <text x="318" y="375" fill="#d4dcff" text-anchor="middle">Backend systems</text>
+    <rect x="416" y="344" width="173" height="48" rx="24" fill="#30244a" stroke="#cf9dff" stroke-opacity="0.55"/>
+    <text x="502" y="375" fill="#ead4ff" text-anchor="middle">Team velocity</text>
+  </g>
+  <g fill="none" stroke="#86d8db" stroke-opacity="0.42" stroke-width="2">
+    <circle cx="924" cy="244" r="110"/>
+    <circle cx="924" cy="244" r="154" stroke-dasharray="4 13"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="924" cy="244" r="68" fill="#0c2d3f" stroke="#73ead1" stroke-width="3"/>
+    <path d="M896 208V280M896 246L944 208M896 246L947 280" fill="none" stroke="#d7fff7" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(1038 90)">
+      <circle cx="0" cy="38" r="11" fill="#66e3ce"/>
+      <text x="28" y="31" fill="#f4fbff" font-size="21" font-weight="700">AI systems</text>
+      <text x="28" y="57" fill="#8faabe" font-size="16">Agents · RAG · evaluation</text>
+    </g>
+    <g transform="translate(1034 206)">
+      <circle cx="0" cy="38" r="11" fill="#8b9dff"/>
+      <text x="28" y="31" fill="#f4fbff" font-size="21" font-weight="700">Backend platforms</text>
+      <text x="28" y="57" fill="#8faabe" font-size="16">APIs · events · data</text>
+    </g>
+    <g transform="translate(1020 322)">
+      <circle cx="0" cy="38" r="11" fill="#cf9dff"/>
+      <text x="28" y="31" fill="#f4fbff" font-size="21" font-weight="700">Developer foundations</text>
+      <text x="28" y="57" fill="#8faabe" font-size="16">CI/CD · infra · tooling</text>
+    </g>
+  </g>
+</svg>
