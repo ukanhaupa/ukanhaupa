@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ukanhaupa/ukanhaupa/main/assets/portfolio-banner.svg" alt="Kanha Upadhyay: Engineering leadership, AI systems, and backend platforms" width="100%">
+</p>
+
 # Kanha Upadhyay
 
 ### Engineering Manager · AI systems · Backend platforms
