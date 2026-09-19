@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ukanhaupa/ukanhaupa/main/assets/portfolio-banner.svg" alt="Kanha Upadhyay: Engineering leadership, AI systems, and backend platforms" width="100%">
+  <img src="https://raw.githubusercontent.com/ukanhaupa/ukanhaupa/main/assets/portfolio-banner.svg" alt="Kanha Upadhyay: SDE 3, AI systems, and backend platforms" width="100%">
 </p>
 
 <p align="center">
